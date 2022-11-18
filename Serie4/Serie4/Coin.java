@@ -7,6 +7,7 @@
  */
 package Serie4;
 import java.util.Random;
+import java.util.random.*;
 
 /*
  * Representiert eine Münze die geflippt werden kann
